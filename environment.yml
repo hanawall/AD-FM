@@ -1,0 +1,32 @@
+name: swift
+channels:
+  - nvidia/label/cuda-12.4.0
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - bzip2=1.0.8
+  - ca-certificates=2022.9.24
+  - conda-pack=0.7.0
+  - ld_impl_linux-64=2.39
+  - libffi=3.4.2
+  - libgcc-ng=12.2.0
+  - libgomp=12.2.0
+  - libstdcxx-ng=12.2.0
+  - libzlib=1.2.13
+  - pip=22.3.1
+  - readline=8.1.2
+  - setuptools=65.5.1
+  - tzdata=2022f
+  - wheel=0.38.4
+  - zlib=1.2.13
+  - expat=2.6.4
+  - libuuid=1.41.5
+  - ncurses=6.4
+  - openssl=3.0.16
+  - python=3.12.9
+  - sqlite=3.45.3
+  - tk=8.6.14
+  - xz=5.6.4
+  - cuda-nvcc=12.4.99
